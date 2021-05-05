@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sarthakakre27
+- 👋 Hi, I’m Sarthak Akre (@sarthakakre27)
 - 👀 I’m interested in Computer Science, Swimming, Cricket.
 - 🌱 I'm currently studying at Visvesvaraya National Institute Of Technology, majoring in Computer Science.
 - 🌱 I’m currently learning flutter,web development.
